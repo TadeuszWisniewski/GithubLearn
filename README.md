@@ -1,2 +1,3 @@
 # Lista zadan do wykonania Prosta aplikacja do zarzadzania codziennymi zadaniami
  #TODO List ...
+License: MIT.
